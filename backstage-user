@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: wael
+spec:
+  profile:
+    displayName: Wael Rabadi
+    email: wael@mwrabadi.com
+    picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
